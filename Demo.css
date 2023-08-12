@@ -1,0 +1,45 @@
+ul{
+    float: unset;
+    position: relative;
+    right: -60px;
+    top: -160px;
+}
+ul>li{
+    text-decoration: none;
+    list-style-type: none;
+    display: inline-block;
+    color: black;
+    margin: 30px;
+}
+ol{
+    float: unset;
+    position: relative;
+    right: -60px;
+    top: -230px;
+}
+ol>li{
+    text-decoration: none;
+    list-style-type: none;
+    display: inline-block;
+    color: black;
+    margin: 40px;
+}
+.mcd-images{
+   position: relative;
+   top: -140px;
+}
+p{
+    display: inline-block;
+    text-align: right;
+    position: relative;    
+    top: -50px;
+    overflow-wrap:normal;
+    height: 100px;
+    width: 300px;
+}
+.a{
+    right: -30px;
+    background-color: orange;
+    width: 150px;
+    height: 40px;
+}
